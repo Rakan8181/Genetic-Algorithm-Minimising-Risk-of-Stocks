@@ -1,1 +1,1 @@
-# Genetic-Algorithm-Minimising-Risk-of-Stocks
+Genetic Algorithm for Portfolio Selection
