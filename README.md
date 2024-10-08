@@ -1,0 +1,1 @@
+# Genetic-Algorithm-Minimising-Risk-of-Stocks
